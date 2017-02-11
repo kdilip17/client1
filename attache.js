@@ -29,7 +29,7 @@ server.register({
             }
         },
         consul : {
-            host : "192.168.2.66",
+            host : "192.168.1.29",
             port : "8500",
             secure: true
         }
